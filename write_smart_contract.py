@@ -2,7 +2,7 @@ import json
 from web3 import Web3
 import hashlib
 
-HashOLABorCLAB=hashlib.sha224(b"PID_T\|PID_R\|X").hexdigest()
+HashOLABorCLAB=hashlib.sha256(b"PID_T\|PID_R\|X").hexdigest()
 
 # Set up web3 connection with Ganache
 ganache_url = "http://127.0.0.1:7545"
