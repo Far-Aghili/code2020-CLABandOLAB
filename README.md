@@ -14,7 +14,7 @@ Download and install Ganache from http://truffleframework.com/ganache/ <img alig
  You need to choose SOLIDITY. Then insert your code and deploy it. Finally, copy ABI and address for the Python codes.
  ![remix (1)](https://user-images.githubusercontent.com/57596443/101613282-dfe04400-3a0b-11eb-8849-56fc80bb5c1e.png)
  
- Finally, use the Python code to read the deployed contract, and use the Python code to update it.
+ Finally, use the https://github.com/Far-Aghili/code2020-CLABandOLAB/blob/main/read_smart_contract.py Python code to read the deployed contract, and use the Python code to update it.
 
  
  
