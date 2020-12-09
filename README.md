@@ -7,3 +7,5 @@ First, download and install Ganache which is the personal blockchain for rapid E
 
 Download and install Ganache from http://truffleframework.com/ganache/
  
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://www.trufflesuite.com/img/ganache-header.svg)
