@@ -10,7 +10,9 @@ Download and install Ganache from http://truffleframework.com/ganache/ <img alig
  Then, Ganach will creat 9 accounts for your deployment as below.
  <img align="left" width="1000" height="1000""![ganache](https://user-images.githubusercontent.com/57596443/101610980-38faa880-3a09-11eb-90e5-5df267090346.png)">
  
- Apply the online Remix-Ethereum IDE \cite{remix} to create and deploy the initial smart contract as follows.
+ Apply the online Remix-Ethereum IDE https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.7.4+commit.3f05b770.js to create and deploy the initial smart contract as follows. You need to choose SOLIDITY. Then, insert your code and deploy it. Finally copy ABI and addrees for the Python cods.
+ ![remix (1)](https://user-images.githubusercontent.com/57596443/101613282-dfe04400-3a0b-11eb-8849-56fc80bb5c1e.png)
+
  
  
 
