@@ -1,7 +1,7 @@
 ## code2020-CLABandOLAB
 # Blockchain deployment for CLAB and OLAB protocols
 
-#Instructions:
+# Instructions:
 
 First, download and install Ganache which is the personal blockchain for rapid Ethereum. 
 
