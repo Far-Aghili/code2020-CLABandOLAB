@@ -8,7 +8,7 @@ First, download and install Ganache which is the personal blockchain for rapid E
 Download and install Ganache from http://truffleframework.com/ganache/ <img align="right" width="100" height="100" src="https://www.trufflesuite.com/img/ganache-logo-dark.svg">
  
  Then, Ganach will creat 9 accounts for your deployment as below.
- ![ganache](https://user-images.githubusercontent.com/57596443/101610980-38faa880-3a09-11eb-90e5-5df267090346.png)
+ <img align="left" width="1000" height="1000""![ganache](https://user-images.githubusercontent.com/57596443/101610980-38faa880-3a09-11eb-90e5-5df267090346.png)">
  
  Apply the online Remix-Ethereum IDE \cite{remix} to create and deploy the initial smart contract as follows.
  
