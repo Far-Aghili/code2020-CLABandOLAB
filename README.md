@@ -1,5 +1,5 @@
-# code2020-CLABandOLAB
-# to ###### Blockchain deployment for CLAB and OLAB protocols
+## code2020-CLABandOLAB
+# Blockchain deployment for CLAB and OLAB protocols
 
 Instructions:
 
